@@ -11,5 +11,8 @@ public class Driver
     public static void main (String[] args){
      DrawHouse house = new DrawHouse();
      house.draw();
+     
+     Benzene s = new Benzene();
+     s.shape();
     }
 }
