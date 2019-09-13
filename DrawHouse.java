@@ -1,15 +1,15 @@
 
 /**
- * Write a description of class DrawHouse here.
+ * Draws a house
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @Leah Kuruvila
+ * 
  */
 import apcslib.*;
 public class DrawHouse
 {
  
-// instance variables - replace the example below with your own
+
     
 
     /**
@@ -22,6 +22,7 @@ public class DrawHouse
     }
 
     
+    //draws house
     public void draw()
     {
         //initializes variable

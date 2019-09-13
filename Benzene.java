@@ -1,19 +1,20 @@
 
 /**
- * Write a description of class Benzene here.
+ * 
  *a circle inside a hexagon
  * @Leah Kuruvila
- * @version (a version number or a date)
+ * 
  */
 import apcslib.*;
 public class Benzene
 {
+   //initialize variables to make hexagon
    double coordinate1;
    double coordinate2;
    
     public Benzene()
     {
-        // initialise instance variables
+        // constructor
         
     }
 
